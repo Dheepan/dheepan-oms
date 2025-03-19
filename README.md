@@ -1,4 +1,4 @@
-# Order Management Microservice
+# Order Management Microservice - Work In Progress
 
 This project is an Order Management Microservice built using FastAPI, Celery, Kafka, and GraphQL. It is designed to handle order-related operations in a scalable and efficient manner.
 
