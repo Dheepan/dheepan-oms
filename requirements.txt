@@ -1,0 +1,17 @@
+FastAPI
+httpx
+uvicorn
+celery
+kafka-python
+pydantic
+sqlalchemy
+asyncpg
+pytest
+pytest-asyncio
+strawberry-graphql
+psycopg2-binary
+alembic
+pytest-cov
+flake8
+black
+bandit
